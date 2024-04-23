@@ -72,7 +72,7 @@ For deploying the trained model, follow these steps:
 
 1. Clone the Repository:
 
--- git clone https://github.com/your-username/SRGAN.git
+-- git clone https://github.com/Super-Resolution-Generative-Adversarial-Networks/SRGAN.git
 
 2. Install Dependencies:
 
