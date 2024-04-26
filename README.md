@@ -1,6 +1,6 @@
 # Super-Resolution-Generative-Adversarial-Networks
 
-This repository contains the code and documentation for a machine learning project focused on Super Resolution Generative Adversarial Networks. The project was completed as part of the EE 541 course at University of Southern California.
+This repository contains the code and documentation for a deep learning project focused on Super Resolution Generative Adversarial Networks. The project was completed as part of the EE 541 course at University of Southern California.
 # Overview
 Welcome to the Super-Resolution Generative Adversarial Network (SRGAN) repository! This code implements an image enhancement model using GANs to generate high-resolution images from low-resolution inputs. SRGANs are particularly useful for tasks like upscaling images with improved visual quality or to reduce the noise in an image.
 # Architecture
